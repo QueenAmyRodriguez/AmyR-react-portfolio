@@ -5,7 +5,7 @@ function About() {
     return (
         <section className='row'>
             <div className='col-6'>
-                <h1 id="about">Amy Rodriguez</h1>
+                <h1 id="about">About Me</h1>
                 <img src={aboutMeImg} className='aboutMe' style={{ height: "300px" }} alt="Selfie taken in the Garden of Eden on Maui" />
             </div>
             <div className='col-6 bio'>
