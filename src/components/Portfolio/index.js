@@ -7,7 +7,7 @@ function Portfolio() {
             <div className='col-6'>
                 <h1 id="portfolio">Portfolio</h1>
             </div>
-            <div className='col-6 bio'>
+            <div className='col-6'>
                 <Project></Project>
             </div>
         </section>
