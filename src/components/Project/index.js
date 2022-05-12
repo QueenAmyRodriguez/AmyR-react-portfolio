@@ -37,6 +37,12 @@ function Project() {
             link: 'https://queenamyrodriguez.github.io/AmyR-Weather-dashboard/',
             gitHub: 'https://github.com/QueenAmyRodriguez/AmyR-Weather-dashboard',
             description: ''
+        },
+        {
+            name: 'grub-burger-SC.png',
+            link: 'https://grub-burger.herokuapp.com/',
+            gitHub: 'https://github.com/eucalyptus1/grub-burger',
+            description: ''
         }
     ])
 
