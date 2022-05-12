@@ -1,10 +1,11 @@
 {
   "files": {
     "main.css": "/AmyR-react-portfolio/static/css/main.073c9b0a.css",
-    "main.js": "/AmyR-react-portfolio/static/js/main.39fcefa8.js",
+    "main.js": "/AmyR-react-portfolio/static/js/main.c3a2ecdf.js",
     "static/js/787.a2cb61a6.chunk.js": "/AmyR-react-portfolio/static/js/787.a2cb61a6.chunk.js",
     "static/media/food-festival-pwa.png": "/AmyR-react-portfolio/static/media/food-festival-pwa.abe382c2d03b7d094f92.png",
     "static/media/NE-Fullpage.png": "/AmyR-react-portfolio/static/media/NE-Fullpage.197d4882fe87163085b3.png",
+    "static/media/grub-burger-SC.png": "/AmyR-react-portfolio/static/media/grub-burger-SC.5de177d2d33af04b17b4.png",
     "static/media/Me.jpeg": "/AmyR-react-portfolio/static/media/Me.d48c4fafa0d0cb7b7b24.jpeg",
     "static/media/lettuceBfrank-project2.png": "/AmyR-react-portfolio/static/media/lettuceBfrank-project2.5c61aaf6c87bc26ab4f3.png",
     "static/media/screenshot.png": "/AmyR-react-portfolio/static/media/screenshot.fe68e29c275b8e629e43.png",
@@ -14,11 +15,11 @@
     "static/media/AmyZRodriguez_Resume.pdf": "/AmyR-react-portfolio/static/media/AmyZRodriguez_Resume.5cc0f2a8df8c24f034b2.pdf",
     "index.html": "/AmyR-react-portfolio/index.html",
     "main.073c9b0a.css.map": "/AmyR-react-portfolio/static/css/main.073c9b0a.css.map",
-    "main.39fcefa8.js.map": "/AmyR-react-portfolio/static/js/main.39fcefa8.js.map",
+    "main.c3a2ecdf.js.map": "/AmyR-react-portfolio/static/js/main.c3a2ecdf.js.map",
     "787.a2cb61a6.chunk.js.map": "/AmyR-react-portfolio/static/js/787.a2cb61a6.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.073c9b0a.css",
-    "static/js/main.39fcefa8.js"
+    "static/js/main.c3a2ecdf.js"
   ]
 }
